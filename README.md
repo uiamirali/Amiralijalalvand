@@ -22,19 +22,19 @@
 
 ###
 
-<h3 align="left"></h3>
+<h3 align="center"></h3>
 
 ###
 
-<p align="left">- 👨‍💻 Indie maker<br>- 🚀 Building <a href="https://juscard.com" targe="_blank"> justcard.com <a/> (1K+ users)<br>- ⚡ MERN on Top<br><br>Follow me on X:  <a href="https://x.com/uiamirali" target="_blank"> x.com/uiamirali <a/></p>
+<p align="center">- 👨‍💻 Indie maker<br>- 🚀 Building <a href="https://juscard.com" targe="_blank"> justcard.com <a/> (1K+ users)<br>- ⚡ MERN on Top<br><br>Follow me on X:  <a href="https://x.com/uiamirali" target="_blank"> x.com/uiamirali <a/></p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
