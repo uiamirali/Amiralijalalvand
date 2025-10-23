@@ -26,7 +26,7 @@
 
 ###
 
-<p align="center">- 👨‍💻 Indie maker<br>- 🚀 Building <a href="https://juscard.com" targe="_blank"> juscard.com <a/> (1K+ users)<br>- ⚡ MERN on Top<br><br>Follow me on X:  <a href="https://x.com/uiamirali" target="_blank"> x.com/uiamirali <a/></p>
+<p align="center">- 👨‍💻 Indie maker<br>- 🚀 Building <a href="https://juscard.com" targe="_blank"> juscard.com <a/> (1K+ users)<br>- ❤️ Modern Web Lover<br><br>Follow me on X:  <a href="https://x.com/uiamirali" target="_blank"> x.com/uiamirali <a/></p>
 
 ###
 
